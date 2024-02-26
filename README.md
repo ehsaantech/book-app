@@ -1,6 +1,6 @@
-# Case Study: Movie Website
+# Case Study: Book Website
 
-Welcome to the Movie Website repository! This project aims to develop a feature-rich movie website where users can explore, add, edit, and manage movies. The website includes authentication features such as login and signup, and state management is implemented using Redux.
+Welcome to the Book Website repository! This project aims to develop a feature-rich Book website where users can explore, add, edit, and manage Books. The website includes authentication features such as login and signup, and state management is implemented using Redux.
 
 
 
@@ -9,7 +9,7 @@ The design for this project can be found on Figma. Please refer to the Figma des
 
 The website design is 100% responsive and includes animations for enhanced user experience.
 
-https://www.figma.com/file/rsilPqu30TpPX7IOPqLPAf/Movie-list?type=design&node-id=0-1&mode=design&t=FlfApPD4Ls96lmwT-0
+https://www.figma.com/file/rsilPqu30TpPX7IOPqLPAf/Book-list?type=design&node-id=0-1&mode=design&t=FlfApPD4Ls96lmwT-0
 
 ### Features
 
@@ -17,11 +17,11 @@ https://www.figma.com/file/rsilPqu30TpPX7IOPqLPAf/Movie-list?type=design&node-id
 
 **Signup:** New users can create an account by providing necessary details.
 
-**Movie List View:** Display a list of movies with basic details.
+**Book List View:** Display a list of Books with basic details.
 
-**Add Movie:** Authenticated users can add new movies to the website.
+**Add Book:** Authenticated users can add new Books to the website.
 
-**Edit Movie:** Users can edit existing movie details.
+**Edit Book:** Users can edit existing Book details.
 
 ### Technical Stack
 
