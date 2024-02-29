@@ -41,19 +41,22 @@ https://www.figma.com/file/rsilPqu30TpPX7IOPqLPAf/Book-list?type=design&node-id=
 ### Tasks
 
 **Task 1:**
-Login Page Component: Create the UI and functionality for the login page. (Duration: 4 hours)
+Project Setup: React Setup (Duration: 4 hours)
 
 **Task 2:**
-Signup Page Component: Design and implement the signup page. (Duration: 4 hours)n
+Login Page Component: Create the UI and functionality for the login page. (Duration: 6 hours)
 
 **Task 3:**
-Book List View Component: Develop the UI to display the list of Books. (Duration: 6 hours)
+Signup Page Component: Design and implement the signup page. (Duration: 6 hours)
 
 **Task 4:**
-Add Book Form Component: Build the form for adding new Books. (Duration: 6 hours)
+Book List View Component: Develop the UI to display the list of Books. (Duration: 6 hours)
 
 **Task 5:**
-Edit Book Form Component: Implement the form for editing existing Books. (Duration: 6 hours)
+Add Book Form Component: Build the form for adding new Books. (Duration: 6 hours)
 
 **Task 6:**
-Add Animations : Add animations to enhance user experience. (Duration: 4 hours)
+Edit Book Form Component: Implement the form for editing existing Books. (Duration: 6 hours)
+
+**Task 7:**
+Add Animations : Add animations to enhance user experience. (Duration: 8 hours)
